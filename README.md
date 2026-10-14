@@ -6,7 +6,7 @@
 
 ## Description
 A project demonstrating Git and GitHub fundamentals.
-
+This line was edited directly on GitHub.
 ## Technologies
 - HTML
 - CSS
