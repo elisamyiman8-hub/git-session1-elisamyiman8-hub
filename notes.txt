@@ -1,2 +1,3 @@
 Personal development notes.
 I am learning how to stage and commit files selectively with Git.
+Practiced fetch, pull and diff.
