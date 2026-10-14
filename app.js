@@ -4,3 +4,4 @@ if (statusMessage) {
   statusMessage.textContent = "Starter project is ready.";
 }
 console.log("Git and GitHub assignment in progress.");
+console.log("Git assignment loaded");
